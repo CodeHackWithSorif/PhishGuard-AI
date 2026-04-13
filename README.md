@@ -22,4 +22,4 @@ PhishGuard AI provides real-time URL scanning to protect users from malicious ph
 ## 👨‍💻 Developer
 Developed by **Sorif Hossain** | Computer Science Student |
 
-Catch my latest tech updates on YouTube: **Code Hack with Sorif**
+Catch my latest tech updates on YouTube: **[Code Hack with Sorif](https://youtu.be/GQLy9RlYILI?si=OmKBbwydEM5wLo18)**
