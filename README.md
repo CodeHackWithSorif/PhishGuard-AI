@@ -20,5 +20,6 @@ PhishGuard AI provides real-time URL scanning to protect users from malicious ph
 - **Real-Time Analysis:** Instant results indicating whether a link is safe or potentially malicious.
 
 ## 👨‍💻 Developer
-Developed by **Sorif Hossain** | Computer Science Student
+Developed by **Sorif Hossain** | Computer Science Student |
+
 Catch my latest tech updates on YouTube: **Code Hack with Sorif**
